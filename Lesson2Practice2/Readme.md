@@ -12,7 +12,7 @@ Download the file or clone in to your local machine and open it through the UiPa
 No additional packages required.
 
 ## Problem Statement
-reate four variables of the GenericValue type in your sequence. Print to the console various operations with them and observe the result.
+Create four variables of the GenericValue type in your sequence. Print to the console various operations with them and observe the result.
 
 ## Example
 Adding two Strings together is called concatenation. For example, when we concatenate “cat”+”dog”, the result is “catdog”. 
