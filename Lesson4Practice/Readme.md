@@ -1,5 +1,6 @@
 # Exploring Generic Variables
 In this practice session, I have explored the 3 recording profiles in Uipath : Basic, Desktop and Web.
+It also peeks into Scraping, Text and Type option in the recorder menu.
 
 ## Getting Started
 Download the file or clone in to your local machine and open it through the UiPath Community edition.
