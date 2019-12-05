@@ -11,3 +11,6 @@ How to use the Citrix Recorder
 6. Scrape Relative: allows you to scrape an image relative to an anchor * Find Image activity * Translate Clipping Region * Get OCR Text activity * Reset clipping region 
 
 Use Select Item and send hot key activity with Click Image to choose from Drop down value.
+
+Hands On Experience:
+Automate ExpenseIT screen- Download the ExpenseIt application and add a new expense by only using image/text and hotkeys. ExpenseIT is a virtual environment application. The intend is to automate citrix/virtual environment application automation.
